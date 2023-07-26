@@ -1,3 +1,5 @@
+<img width="1293" alt="image" src="https://github.com/gitsrc/solver-intent-centric-web3/assets/34047788/938f5b85-5b04-4d5c-b261-275a5a88bcdb">
+
 # Bob the Solver
 
 An implementation of Infrastructure for intent based transactions with Account abstraction
